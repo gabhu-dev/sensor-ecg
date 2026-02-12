@@ -30,6 +30,7 @@ El programa calcula y muestra:
 
 ### ⚙️ ¿Cómo funciona el código?
 
+<img src="image-ecg.png" width="300">
 
 #### 1️⃣ Lectura de señal ECG
 El Arduino lee la señal analógica proveniente del AD8232 mediante el pin A0.
